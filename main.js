@@ -1,4 +1,4 @@
 function myFunction()
 {
-    document.getElementById('clicked').innerHTML = "Goodbye World";
+    document.getElementById('clicked').innerHTML = 'Goodbye World';
 }
